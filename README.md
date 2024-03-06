@@ -1,3 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow.
-This is the "feature" branch.
+Hello, this is Tony from CUHK CSE
